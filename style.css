@@ -1,0 +1,59 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    width: 100%;
+    background-color: rgb(201, 125, 125);
+    margin-bottom: 100px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.botoes {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-right: 25px;
+    gap: 40px;
+}
+
+.balanço1 {
+    width: 10vw;
+    margin: 5px;
+    padding: 5px;
+}
+
+.balanço2 {
+    width: 10vw;
+    margin: 5px;
+    padding: 5px;
+}
+
+.balanço2 {
+    width: 10vw;
+    margin: 5px;
+    padding: 5px;
+}
+
+.balanço3 {
+    width: 10vw;
+    margin: 5px;
+    padding: 5px;
+}
+
+.balanço4 {
+    width: 10vw;
+    margin: 5px;
+    padding: 5px;
+}
+
+.agradecimento {
+    gap: 50px;
+}
